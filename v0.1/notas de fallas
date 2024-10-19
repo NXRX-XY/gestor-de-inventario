@@ -1,0 +1,5 @@
+Bueno este es uno de mis primeros proyectos en la cual hice un aplicativo web CRUD el cual planeo darle soporte a largo plazo para que pueda ser usado por la comunidad, gente que en algun momento necesite de un aplicativo web
+para gestión de inventario, hay muchos errores en esta priemra versión como sanitizar ciertos campos de tipo post donde reciben los datos, consultas y otras brechas de seguridad, ordenar el código y entre otros errores como
+la función de log faltante para ciertos apartados, aún está en desarrollo esto, al menos le fue funcional de manera local a la pequeña empresa en la que estaba, cabe aclarar que el diseño front-end no fue hecho por mi desde
+cero, tome la plantilla de uso gratuito de un lugar, lamentablemente no encuentro al autor original (todos los creditos hacia el), yo solo modifique el front-end para poder usarlo de plantilla e implementar ciertas cosas,
+espero en algún momento poder perfeccionar este sistema para ustedes, espero que a alguien le sirva para darle una pulida al codigo adaptarlo para su propio uso, con esto me despido y nos estaremos viendo proximamente ;)
