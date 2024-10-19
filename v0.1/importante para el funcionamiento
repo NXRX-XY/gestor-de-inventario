@@ -1,0 +1,8 @@
+Para el uso correcto de esto se debe tomar en cuenta 2 cosas, la primera es que para no editar tanto el codigo para hacer uso de este es recomendable importar las tablas que les dejé en un archivo sql y segundo para que les
+funcione una parte donde pasa los datos a un excel es importante descargar la librería de excel con el siguiente comando:
+-composer require phpoffice/phpspreadsheet
+recuerda instalar composer para php
+
+y aqui las credenciales del login (solo si importaron el sql que les dejé):
+correo@ejemplo.com
+password
