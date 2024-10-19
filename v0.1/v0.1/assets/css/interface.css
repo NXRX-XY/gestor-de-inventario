@@ -1,0 +1,175 @@
+*{ 
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    gap: 10px 4rem;
+    max-width: 50rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-right: 2rem;
+    flex-direction: row;
+    align-content: space-between;
+    position: absolute;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-delay: 2s;
+}
+
+
+/*Edit section form*/
+.position1{
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    margin-top: 0.1rem;
+}
+
+.position2{
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.position3{
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    align-items:start;
+    justify-content: center;
+    margin-top: 10rem;
+}
+
+/*.position4{
+    display: flex;
+    position: absolute;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10rem;
+}*/
+
+section{
+    position: absolute;
+    display: flex;
+    max-width: 50rem;
+    min-width: 22rem;
+    flex-direction: row;
+}
+
+.form_1{
+    display: flex;
+    padding-top: 5rem;
+    padding-left: 1rem;
+    max-width: 50rem;
+    min-width: 22rem;
+}
+
+.form_2{
+    display: flex;
+    padding-top: 3rem;
+    padding-left: 1rem;
+    max-width: 50rem;
+    min-width: 22rem;
+}
+
+.entrie_1 {
+    display: flex;
+    margin-top: 0.1rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.entrie_2 {
+    display: flex;
+    margin-top: .1rem;
+    flex-direction: column;
+    align-items: center;
+}
+
+.entrie_3 {
+    display: flex;
+    margin-top: .1rem;
+    flex-direction: column;
+    align-items: center;
+}
+
+.outer{
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+.pst-1{
+    display: flex;
+    margin-top: 1rem;
+    position: absolute;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.btn-1{
+    display: flex;
+    position: absolute;
+    margin-top: 19.9rem;
+    margin-left: 6rem;
+    max-width: 500rem;
+    flex-direction: row;
+}
+
+.btn-2{
+    display: flex;
+    position: absolute;
+    margin-top: 19.9rem;
+    margin-left: 14rem;
+    max-width: 50rem;
+    flex-direction: row;
+}
+
+.p1{
+    display: flex;
+    position: absolute;
+    margin-top: 17.5rem;
+    margin-left: 1rem;
+    max-width: 50rem;
+    color: azure;
+}
+
+.p2{
+    display: flex;
+    position: absolute;
+    margin-top: 17.5rem;
+    margin-left: 9rem;
+    max-width: 50rem;
+    color: azure;
+}
+
+p{
+    justify-content: center;
+    align-items: center;
+    padding-top: 2rem;
+}
+
+.sec_button{
+    display: flexbox;
+    position: absolute;
+    margin-top: 0.5rem;
+    margin-right: 1rem;
+    padding-left: 0.1rem;
+}
+
+table, th, td {
+    border:1px solid black;
+    margin-top: 8rem;
+    margin-left: 1rem;
+  }

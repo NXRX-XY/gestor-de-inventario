@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+background: url(https://www.6dtechnologies.com/es/wp-content/uploads/sites/2/2022/07/Globe-Telecom-1-1536x1024.jpg) no-repeat center center fixed;
+background-size: cover;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.links {
+    font-family: 'Roboto', sans-serif;
+    font-size: .92rem;
+    gap: .5rem;
+    flex-flow: column nowrap;
+    display: flex;
+    color: aliceblue;
+}
+
+.links form{
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    margin-top: 1rem;
+    display: flex;
+    align-content: center;
+}
+
+.links label{
+    font-size: 1rem;
+}
